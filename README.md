@@ -66,3 +66,8 @@ flowchart LR
   - the "AI assistant" framing is ahead of the implementation; most modules are currently form stubs with placeholder behavior
   - the repo includes two README files with overlapping but inconsistent descriptions
   - the usage docs previously referenced `app.py`, while the checked-in executable is [`final.py`](C:\Users\91965\cars24\github-readme-batch\HR_AI_Assistant\final.py)
+
+## Supporting Docs
+- [Architecture diagram](docs/architecture.png)
+- [Evaluation logs and outputs](docs/evaluation.md)
+- [Sample inputs and outputs](docs/sample_io.md)
