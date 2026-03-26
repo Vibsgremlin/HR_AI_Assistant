@@ -1,18 +1,11 @@
 # Sample Inputs and Outputs
 
-## Recruitment module sample input
-- Upload a resume PDF or DOCX
+## Example files
+- `examples/compensation_input.json`
+- `examples/payroll_input.json`
+- `outputs/compensation_output.txt`
+- `outputs/payroll_output.txt`
 
-## Compensation sample input
-- Base salary: `80000`
-- Bonus: `5000`
-
-## Compensation sample output
-```text
-Total Compensation: 85000
-```
-
-## Payroll sample output
-```text
-Payroll for Maya generated with salary 65000.
-```
+## What these show
+- concrete payload values for two HR modules
+- the corresponding user-visible output from the Streamlit flows
